@@ -10,4 +10,4 @@
 
 Projeto feito através da Rocketseat, primeiro desafio utilizando Orientação a Objetos. 
 
-[🔗clique aqui para acessar](https://larissaaleall.github.io/Universe/Universe/)
+[🔗clique aqui para acessar](https://larissaaleall.github.io/localhost:3000/)
